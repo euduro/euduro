@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.euduroinnovations.com/sitemap.xml
+
+# Disallow crawling of administrative pages
+Disallow: /admin/
+Disallow: /login/
+Disallow: /checkout/
